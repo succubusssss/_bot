@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "config": "^3.3.11"
+  },
+  "scripts": {
+    "start": "python bot.py"
+  }
+}

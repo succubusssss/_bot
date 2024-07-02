@@ -1,0 +1,8 @@
+/.env
+/env
+__pycache__
+/avatar.png
+/dict.py
+/test.py
+/lexabot.code-workspace
+/Pipfile

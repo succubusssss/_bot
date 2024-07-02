@@ -1,0 +1,7 @@
+aiogram
+pandas
+python-dotenv
+config
+pydantic
+openpyxl
+pydantic_settings
